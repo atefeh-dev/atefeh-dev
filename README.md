@@ -18,7 +18,7 @@
 <a href="https://codepen.io/thisisatefe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thisisatefe" height="30" width="40" /></a>
 <a href="https://twitter.com/thisisatefe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisatefe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/atefe-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/atefe-dev" height="30" width="40" /></a>
-<a href="https://medium.com/atefe-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="atefe-dev" height="30" width="40" /></a>
+<a href="https://medium.com/medium.com/@atefe-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium.com/@atefe-dev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atefehmohammaddoust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atefehmohammaddoust" height="30" width="40" /></a>
 </p>
 
