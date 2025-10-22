@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atefeh</h1>
 <h3 align="center">I am always eager to experience new opportunities and come up with new ideas. I'm a fast learner who never stops learning. I love to learn more and teach whatever I learn to others.</h3>
 
-- 🌱 I’m currently learning **SCSS, Next.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [atefe.dev](atefe.dev)
 
